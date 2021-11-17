@@ -1,1 +1,1 @@
-https://kratka.hu/yo-angular-todo/index.html#/
+https://kratka.hu/yo-angular-todo/
